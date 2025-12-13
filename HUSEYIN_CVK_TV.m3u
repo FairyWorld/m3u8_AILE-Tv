@@ -6,7 +6,7 @@ http://162.212.179.32/akamaissh101/ssh101/teber_star1/playlist.m3u8
 #EXTINF:-1 tvg-id="3"tvg-logo="https://r.resimlink.com/dZ23u.gif"group-title="TEBER_MEDYA",TEBER STAR 2
 http://162.212.179.32/akamaissh101/ssh101/teber_star2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="3"tvg-logo="https://r.resimlink.com/hdj3L.gif"group-title="TEBER_MEDYA",KARA ŞİMŞEK TV
+#EXTINF:-1 tvg-id="3"tvg-logo="https://r.resimlink.com/Q2D9H50.gif"group-title="TEBER_MEDYA",KARA ŞİMŞEK TV
 http://162.212.179.32/akamaissh101/ssh101/kara_simsek/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1"tvg-logo="https://r.resimlink.com/oWDj0I9.gif"group-title="TEBER_MEDYA",PLANET AKSİYON 
@@ -18,7 +18,7 @@ http://162.212.179.32/akamaissh101/ssh101/hbb_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="3"tvg-logo="https://r.resimlink.com/bJvwQDyR7_Zu.gif"group-title="TEBER_MEDYA",KRAL 6
 http://162.212.179.32/akamaissh101/ssh101/kral6/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2"tvg-logo="https://r.resimlink.com/xNw8gp4.gif"group-title="TEBER_MEDYA",PLANET TURK 
+#EXTINF:-1 tvg-id="2"tvg-logo="https://r.resimlink.com/hi7nj9VwRlGQ.gif"group-title="TEBER_MEDYA",PLANET TURK EHLİBEYT
 http://162.212.179.32/akamaissh101/ssh101/planet_turk/chunks.m3u8
 
 
@@ -28,7 +28,7 @@ http://162.212.179.32/akamaissh101/ssh101/planet_cocuk/playlist.m3u8
 #EXTINF:-1 tvg-id="3"tvg-logo="https://r.resimlink.com/jxz8dtuT0F.gif"group-title="TEBER_MEDYA",PLANET SAFARİ 
 http://162.212.179.32/akamaissh101/ssh101/planet_safari/playlist.m3u8
 
-#EXTINF:-1 tvg-id="3"tvg-logo="https://r.resimlink.com/x2QiV.gif"group-title="TEBER_MEDYA",SHOX TV 
+#EXTINF:-1 tvg-id="3"tvg-logo="https://r.resimlink.com/FCAJ0SzhTe.gif"group-title="TEBER_MEDYA",SHOX MTV 
 http://162.212.179.32/akamaissh101/ssh101/teber_shox/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="",DÜZGÜN TV
@@ -39,6 +39,9 @@ http://176.65.146.136:6005/play/a024/index.m3u8
 
 #EXTINF:-1 tvg-id="3"tvg-logo="vizon"group-title="TEBER_MEDYA",HRT TV
 http://176.65.146.136:6005/play/a01q/index.m3u8
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",TİVİ 16 
+https://tv156.radyotelekom.com.tr:3785/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="MW"tvg-logo="https://r.resimlink.com/7RF-4ywUite.jpg"group-title="TEBER_MEDYA",POFİDİK YERLİ TV
 http://104.238.23.216/d/live/out.m3u8

@@ -6,7 +6,7 @@ http://162.212.179.32/akamaissh101/ssh101/teber_star1/playlist.m3u8
 #EXTINF:-1 tvg-id="3"tvg-logo="https://r.resimlink.com/dZ23u.gif"group-title="TEBER_MEDYA",TEBER STAR 2
 http://162.212.179.32/akamaissh101/ssh101/teber_star2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="3"tvg-logo="https://r.resimlink.com/hdj3L.gif"group-title="TEBER_MEDYA",KARA ŞİMŞEK TV
+#EXTINF:-1 tvg-id="3"tvg-logo="https://r.resimlink.com/Q2D9H50.gif"group-title="TEBER_MEDYA",KARA ŞİMŞEK TV
 http://162.212.179.32/akamaissh101/ssh101/kara_simsek/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1"tvg-logo="https://r.resimlink.com/oWDj0I9.gif"group-title="TEBER_MEDYA",PLANET AKSİYON 
@@ -18,7 +18,7 @@ http://162.212.179.32/akamaissh101/ssh101/hbb_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="3"tvg-logo="https://r.resimlink.com/bJvwQDyR7_Zu.gif"group-title="TEBER_MEDYA",KRAL 6
 http://162.212.179.32/akamaissh101/ssh101/kral6/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2"tvg-logo="https://r.resimlink.com/xNw8gp4.gif"group-title="TEBER_MEDYA",PLANET TURK 
+#EXTINF:-1 tvg-id="2"tvg-logo="https://r.resimlink.com/hi7nj9VwRlGQ.gif"group-title="TEBER_MEDYA",PLANET TURK EHLİBEYT
 http://162.212.179.32/akamaissh101/ssh101/planet_turk/chunks.m3u8
 
 
@@ -28,7 +28,7 @@ http://162.212.179.32/akamaissh101/ssh101/planet_cocuk/playlist.m3u8
 #EXTINF:-1 tvg-id="3"tvg-logo="https://r.resimlink.com/jxz8dtuT0F.gif"group-title="TEBER_MEDYA",PLANET SAFARİ 
 http://162.212.179.32/akamaissh101/ssh101/planet_safari/playlist.m3u8
 
-#EXTINF:-1 tvg-id="3"tvg-logo="https://r.resimlink.com/x2QiV.gif"group-title="TEBER_MEDYA",SHOX TV 
+#EXTINF:-1 tvg-id="3"tvg-logo="https://r.resimlink.com/FCAJ0SzhTe.gif"group-title="TEBER_MEDYA",SHOX MTV 
 http://162.212.179.32/akamaissh101/ssh101/teber_shox/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="",DÜZGÜN TV
@@ -55,20 +55,23 @@ https://tv191.radyotelekom.com.tr:3914/stream/play.m3u8
 #EXTINF:-1,MCtv
 https://n2.burst.cdn.jetstre.am/session/450f4c594b612903b7d42d421fb93c21/sz/mceutv/wowza4/live/mc2/chunklist.m3u8
 
-#EXTINF:-1,tiviturk
-https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:-1,BİZİM EV TV
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bizim_Ev_Tv.m3u8
 
 #EXTINF:-1 tvg-id="3"tvg-logo="vizon"group-title="TEBER_MEDYA",vizon TV
 http://162.212.179.32/akamaissh101/ssh101/vizoninfo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5"tvg-logo="https://r.resimlink.com/ofeFJDNjup.png"group-title="TEBER_MEDYA",TELE ON
-https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/refs/heads/main/streams/teleon.m3u8
+#EXTINF:-1 tvg-id="5"tvg-logo="https://r.resimlink.com/ofeFJDNjup.png"group-title="TEBER_MEDYA",CNBC-E
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/CNBC_E.m3u8
 
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/5ba92060-8084-4004-8d64-d066b103ab53.png" tvg-url="",Artı TV
 https://cdn4.yayin.com.tr/arti/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://assets.uzunmuhalefet.com/logos/2f95410c-911a-4302-8642-e89bef9e1444.png" tvg-url="https://www.gopsentv.com/",Göpsen TV
 https://streams.uzunmuhalefet.com/stream/e6dca493-58a7-4f29-a6eb-543dc4b5f933.m3u8
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",TİVİ 16 
+https://tv156.radyotelekom.com.tr:3785/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="Dizi Son Bölüm",Gönül Dağı
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gonul.Dagi.SON.mkv
@@ -81,6 +84,31 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sahtekarlar.SON.mkv
 
 #EXTINF:-1 group-title="Dizi Son Bölüm",Arka Sokaklar
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Arka.Sokaklar.SON.mkv
+
+
+#EXTINF:-1 tvg-id="enotvaksyon.tr" tvg-name="ENO TV AKSİYON" group-title="|TR| SİNEMA &amp; DİZİ",ENO TV AKSİYON
+https://goldvod.org/live/hpgdiscoo/123456/374.m3u8
+#EXTINF:-1 tvg-id="enotvanmasyon.tr" tvg-name="ENO TV ANİMASYON" group-title="|TR| SİNEMA &amp; DİZİ",ENO TV ANİMASYON
+https://goldvod.org/live/hpgdiscoo/123456/375.m3u8
+#EXTINF:-1 tvg-id="enotvvzyon1.tr" tvg-name="ENO TV VİZYON 1" group-title="|TR| SİNEMA &amp; DİZİ",ENO TV VİZYON 1
+https://goldvod.org/live/hpgdiscoo/123456/376.m3u8
+#EXTINF:-1 tvg-id="enotvvzyon2.tr" tvg-name="ENO TV VİZYON 2" group-title="|TR| SİNEMA &amp; DİZİ",ENO TV VİZYON 2
+https://goldvod.org/live/hpgdiscoo/123456/377.m3u8
+#EXTINF:-1 tvg-id="enotvvzyon3.tr" tvg-name="ENO TV VİZYON 3" group-title="|TR| SİNEMA &amp; DİZİ",ENO TV VİZYON 3
+https://goldvod.org/live/hpgdiscoo/123456/378.m3u8
+#EXTINF:-1 tvg-id="enotvvzyon4.tr" tvg-name="ENO TV VİZYON 4" group-title="|TR| SİNEMA &amp; DİZİ",ENO TV VİZYON 4
+https://goldvod.org/live/hpgdiscoo/123456/379.m3u8
+#EXTINF:-1 tvg-id="enovzyon5.tr" tvg-name="ENO TV VİZYON 5" group-title="|TR| SİNEMA &amp; DİZİ",ENO TV VİZYON 5
+https://goldvod.org/live/hpgdiscoo/123456/380.m3u8
+#EXTINF:-1 tvg-id="enovzyon6.tr" tvg-name="ENO TV VİZYON 6" group-title="|TR| SİNEMA &amp; DİZİ",ENO TV VİZYON 6
+https://goldvod.org/live/hpgdiscoo/123456/381.m3u8
+#EXTINF:-1 tvg-id="enovzyon7.tr" tvg-name="ENO TV VİZYON 7" group-title="|TR| SİNEMA &amp; DİZİ",ENO TV VİZYON 7
+https://goldvod.org/live/hpgdiscoo/123456/382.m3u8
+#EXTINF:-1 tvg-id="enovzyon8.tr" tvg-name="ENO TV VİZYON 8" group-title="|TR| SİNEMA &amp; DİZİ",ENO TV VİZYON 8
+https://goldvod.org/live/hpgdiscoo/123456/383.m3u8
+#EXTINF:-1 tvg-id="enovzyon9.tr" tvg-name="ENO TV VİZYON 9" group-title="|TR| SİNEMA &amp; DİZİ",ENO TV VİZYON 9
+https://goldvod.org/live/hpgdiscoo/123456/384.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="",Sinemaaile
 http://65.108.239.207/sinemaaile/tracks-v1a1/index.m3u8
@@ -150,7 +178,7 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:-1 group-title="fTV",Fusion TV
 http://162.212.179.32/akamaissh101/ssh101/084952510aa/playlist.m3u8
 
-#EXTINF:-1,NATİVETV 
+#EXTINF:-1,SAR MAX TV 
 https://dengetv.radyotelekom.com.tr:3012/hybrid/play.m3u8
 
 #EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV", TEVE 6
@@ -167,6 +195,97 @@ https://dl.dropbox.com/scl/fi/5f7qn7ygnwbe3nyye9xfp/Hz.-Meryem-_-Full-B-l-m.mp4?
 
 #EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV",⚡NOW TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",Sıfır tv
+https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",GÖZDE TV
+http://176.65.146.136:6004/play/a01f/index.m3u8
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",SZC TV
+http://176.65.146.136:6004/play/a01e/index.m3u8
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",VAN TV
+http://176.65.146.136:6004/play/a01i/index.m3u8
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",SIFIR tv
+http://176.65.146.136:6003/play/a014/index.m3u8
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",Diyanet TV
+http://176.65.146.136:6003/play/a010/index.m3u8
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",Bn SPOR Haber
+http://176.65.146.136:6003/play/a012/index.m3u8
+
+#EXTINF:-1 group-title="Spor_Sebo",Tivibu Spor
+https://streams.uzunmuhalefet.com/stream/e47153e0-42fe-4980-8570-e840d1cc1cf4.m3u8
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",Cennet Mahallesi TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/cennet-mahallesi.m3u8
+
+#EXTINF:-1 group-title="TBRT_MEDYA",TMB TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m3u8
+
+#EXTINF:-1 group-title="TBRT_MEDYA",TMB TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mcj-tv-shop.m3u8
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",Öncü tv
+https://edge.socialsmart.tv/oncurtv/bant1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",smart1 
+http://65.108.239.207/smart1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",smart2 
+http://65.108.239.207/smart2/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",bm2 
+http://65.108.239.207/bm2/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",UZAY TOPLARI 
+https://vs5.photour.org/v/7wjlci1ljlr9/1080.m3u8
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",GLOBAL TV 
+http://goldvod.org/live/hpgdiscoo/123456/332.m3u8
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",sinevizyon-2 
+http://162.212.179.33/gin-trn09/gt-sinevizyon-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",sinemayerli2 
+http://65.108.239.207/sinemayerli2/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="globalboxkemalsunal.tr" tvg-name="GLOBAL BOX KEMAL SUNAL" group-title="|TR| SİNEMA &amp; DİZİ",GLOBAL BOX KEMAL SUNAL
+https://goldvod.org/live/hpgdiscoo/123456/336.m3u8
+#EXTINF:-1 tvg-id="globalboxkorku.tr" tvg-name="GLOBAL BOX KORKU" group-title="|TR| SİNEMA &amp; DİZİ",GLOBAL BOX KORKU
+https://goldvod.org/live/hpgdiscoo/123456/337.m3u8
+#EXTINF:-1 tvg-id="globalboxvizyon.tr" tvg-name="GLOBAL BOX VIZYON" group-title="|TR| SİNEMA &amp; DİZİ",GLOBAL BOX VIZYON
+https://goldvod.org/live/hpgdiscoo/123456/338.m3u8
+#EXTINF:-1 tvg-id="globalboxyesilcam.tr" tvg-name="GLOBAL BOX YESILCAM" group-title="|TR| SİNEMA &amp; DİZİ",GLOBAL BOX YESILCAM
+https://goldvod.org/live/hpgdiscoo/123456/339.m3u8
+#EXTINF:-1 tvg-id="globalboxyerli.tr" tvg-name="GLOBAL BOX YERLI" group-title="|TR| SİNEMA &amp; DİZİ",GLOBAL BOX YERLI
+https://goldvod.org/live/hpgdiscoo/123456/340.m3u8
+#EXTINF:-1 tvg-id="TRT BELGESEL.tr" tvg-name="TRT Belgesel" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/trt_belgesel_OFg.png" group-title="|TR| BELGESEL",TRT Belgesel
+https://goldvod.org/live/hpgdiscoo/123456/94.m3u8
+#EXTINF:-1 tvg-id="trt2.tr" tvg-name="TRT 2 HD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/trt2_KB4.png" group-title="|TR| BELGESEL",TRT 2 HD
+https://goldvod.org/live/hpgdiscoo/123456/295.m3u8
+#EXTINF:-1 tvg-id="disneyjunior.tr" tvg-name="DISNEY JUNIOR" tvg-logo="https://gbzottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250624/88/1037336465695eb9542c_op_0_XL.webp" group-title="|TR| ÇOCUK",DISNEY JUNIOR
+https://goldvod.org/live/hpgdiscoo/123456/372.m3u8
+#EXTINF:-1 tvg-id="redboxanmasyon.tr" tvg-name="REDBOX ANİMASYON" group-title="|TR| SİNEMA &amp; DİZİ",REDBOX ANİMASYON
+https://goldvod.org/live/hpgdiscoo/123456/342.m3u8
+#EXTINF:-1 tvg-id="redboxanmasyon2.tr" tvg-name="REDBOX ANİMASYON 2" group-title="|TR| SİNEMA &amp; DİZİ",REDBOX ANİMASYON 2
+https://goldvod.org/live/hpgdiscoo/123456/344.m3u8
+#EXTINF:-1 tvg-id="dnamktvaksyon.tr" tvg-name="DİNAMİK TV AKSİYON" group-title="|TR| SİNEMA &amp; DİZİ",DİNAMİK TV AKSİYON
+https://goldvod.org/live/hpgdiscoo/123456/365.m3u8
+#EXTINF:-1 tvg-id="dnamktvanmasyon.tr" tvg-name="DİNAMİK TV ANİMASYON" group-title="|TR| SİNEMA &amp; DİZİ",DİNAMİK TV ANİMASYON
+https://goldvod.org/live/hpgdiscoo/123456/366.m3u8
+#EXTINF:-1 tvg-id="dnamktvbilimkurgu.tr" tvg-name="DİNAMİK TV BILIMKURGU" group-title="|TR| SİNEMA &amp; DİZİ",DİNAMİK TV BILIMKURGU
+https://goldvod.org/live/hpgdiscoo/123456/367.m3u8
+#EXTINF:-1 tvg-id="dnamktvdram.tr" tvg-name="DİNAMİK TV DRAM" group-title="|TR| SİNEMA &amp; DİZİ",DİNAMİK TV DRAM
+https://goldvod.org/live/hpgdiscoo/123456/368.m3u8
+#EXTINF:-1 tvg-id="dnamktvhababamsinifi.tr" tvg-name="DİNAMİK TV HABABAM SINIFI" group-title="|TR| SİNEMA &amp; DİZİ",DİNAMİK TV HABABAM SINIFI
+https://goldvod.org/live/hpgdiscoo/123456/369.m3u8
 
 #EXTINF:-1 group-title="Ulusal" tvg-logo="ALVİN" tvg-url="https://www.nowtv.com.tr/",ALVİN CHANNEL
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
@@ -201,8 +320,14 @@ https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 #EXTINF:-1 tvg-logo="tv logo" group-title="⚡",Torba Tv
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=12969&.m3u8
 
-#EXTINF:-1 tvg-logo="tv logo" group-title=",Anadolu Dost
-https://uzunmuhalefet.serv00.net/canlitv2.php?id=13331&.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title=",CN TV
+https://streams.uzunmuhalefet.com/stream/9d940976-31c8-4570-92e6-a684e49bea46.m3u8
+
+#EXTINF:-1 tvg-logo="tv logo" group-title=",Çocuk TV
+https://streams.uzunmuhalefet.com/stream/f18c5afc-97bb-4790-b124-dd17c70b6217.m3u8
+
+#EXTINF:-1 tvg-logo="tv logo" group-title=",MAİ MİSKET Çocuk TV
+https://streams.uzunmuhalefet.com/stream/65620b64-3756-4edc-82e9-6784dd532d1c.m3u8
 
 #EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",isviçre Tv
 https://i41.ozelip.com:3269/hybrid/play.m3u8
@@ -311,9 +436,6 @@ http://65.108.239.207/sinema1002/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="|TR|TBRT_MEDYA", sinemaaile
 http://65.108.239.207/sinemaaile/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="|TR|TBRT_MEDYA", [25.11.2025 21:26]
-http://65.108.239.207/sinemaaile2/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="|TR|TBRT_MEDYA", sinemaaksiyon
 http://65.108.239.207/sinemaaksiyon/tracks-v1a1/mono.ts.m3u8

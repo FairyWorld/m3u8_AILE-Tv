@@ -6,7 +6,7 @@ http://162.212.179.32/akamaissh101/ssh101/teber_star1/playlist.m3u8
 #EXTINF:-1 tvg-id="3"tvg-logo="https://r.resimlink.com/dZ23u.gif"group-title="TEBER_MEDYA",TEBER STAR 2
 http://162.212.179.32/akamaissh101/ssh101/teber_star2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="3"tvg-logo="https://r.resimlink.com/hdj3L.gif"group-title="TEBER_MEDYA",KARA ŞİMŞEK TV
+#EXTINF:-1 tvg-id="3"tvg-logo="https://r.resimlink.com/Q2D9H50.gif"group-title="TEBER_MEDYA",KARA ŞİMŞEK TV
 http://162.212.179.32/akamaissh101/ssh101/kara_simsek/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1"tvg-logo="https://r.resimlink.com/oWDj0I9.gif"group-title="TEBER_MEDYA",PLANET AKSİYON 
@@ -18,7 +18,7 @@ http://162.212.179.32/akamaissh101/ssh101/hbb_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="3"tvg-logo="https://r.resimlink.com/bJvwQDyR7_Zu.gif"group-title="TEBER_MEDYA",KRAL 6
 http://162.212.179.32/akamaissh101/ssh101/kral6/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2"tvg-logo="https://r.resimlink.com/xNw8gp4.gif"group-title="TEBER_MEDYA",PLANET TURK 
+#EXTINF:-1 tvg-id="2"tvg-logo="https://r.resimlink.com/hi7nj9VwRlGQ.gif"group-title="TEBER_MEDYA",PLANET TURK EHLİBEYT
 http://162.212.179.32/akamaissh101/ssh101/planet_turk/chunks.m3u8
 
 
@@ -28,7 +28,7 @@ http://162.212.179.32/akamaissh101/ssh101/planet_cocuk/playlist.m3u8
 #EXTINF:-1 tvg-id="3"tvg-logo="https://r.resimlink.com/jxz8dtuT0F.gif"group-title="TEBER_MEDYA",PLANET SAFARİ 
 http://162.212.179.32/akamaissh101/ssh101/planet_safari/playlist.m3u8
 
-#EXTINF:-1 tvg-id="3"tvg-logo="https://r.resimlink.com/x2QiV.gif"group-title="TEBER_MEDYA",SHOX TV 
+#EXTINF:-1 tvg-id="3"tvg-logo="https://r.resimlink.com/FCAJ0SzhTe.gif"group-title="TEBER_MEDYA",SHOX MTV 
 http://162.212.179.32/akamaissh101/ssh101/teber_shox/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="",DÜZGÜN TV
@@ -133,8 +133,6 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 Yedek="https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8" Yedek2="http://89.36.94.225:80/956bassem/BHrMOpKtyb/1632" Yedek3="" tvg-id="BEYAZ TV HD.tr" tvg-logo="https://tvprofil.com/img/kanali-logo/Beyaz_TV_TR_logo_v2.png?1734094253" group-title="Live",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
-
-
 #EXTINF:-1 tvg-id="tabii TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="Live",TABII TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8?sid=IUlyczhCBES7nvvwJSIycw&bvr_flags=10&bvr_ch=tabiitv&bvr_bw=2800000
 
@@ -167,6 +165,61 @@ https://dl.dropbox.com/scl/fi/5f7qn7ygnwbe3nyye9xfp/Hz.-Meryem-_-Full-B-l-m.mp4?
 
 #EXTINF:1 tvg-id="" tvg-logo="TÜRKİYE.png" group-title="TRTV",⚡NOW TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",Sıfır tv
+https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",GÖZDE TV
+http://176.65.146.136:6004/play/a01f/index.m3u8
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",SZC TV
+http://176.65.146.136:6004/play/a01e/index.m3u8
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",VAN TV
+http://176.65.146.136:6004/play/a01i/index.m3u8
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",SIFIR tv
+http://176.65.146.136:6003/play/a014/index.m3u8
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",Diyanet TV
+http://176.65.146.136:6003/play/a010/index.m3u8
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",Bn SPOR Haber
+http://176.65.146.136:6003/play/a012/index.m3u8
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",Cennet Mahallesi TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/cennet-mahallesi.m3u8
+
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",Öncü tv
+https://edge.socialsmart.tv/oncurtv/bant1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",smart1 
+http://65.108.239.207/smart1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",smart2 
+http://65.108.239.207/smart2/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",bm2 
+http://65.108.239.207/bm2/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",UZAY TOPLARI 
+https://vs5.photour.org/v/7wjlci1ljlr9/1080.m3u8
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",GLOBAL TV 
+http://goldvod.org/live/hpgdiscoo/123456/332.m3u8
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",sinevizyon-2 
+http://162.212.179.33/gin-trn09/gt-sinevizyon-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA",sinemayerli2 
+http://65.108.239.207/sinemayerli2/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="3"tvg-logo=""group-title="TEBER_MEDYA", 
+https://tv156.radyotelekom.com.tr:3785/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="Ulusal" tvg-logo="ALVİN" tvg-url="https://www.nowtv.com.tr/",ALVİN CHANNEL
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
